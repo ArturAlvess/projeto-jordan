@@ -2,7 +2,7 @@
 
 ![](./img/screenshot.png)
 
-[Clique Aqui]() para acessar o site.
+[Clique Aqui](https://arturalvess.github.io/projeto-jordan/) para acessar o site.
 
 ---
 ## Sobre

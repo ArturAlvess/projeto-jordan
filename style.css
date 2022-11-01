@@ -1,0 +1,157 @@
+html, body{ 
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+a {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+header {
+    display: flex;
+}
+.logo {
+    margin-left: 5vh;
+}
+.principal {
+    width: 70vh;
+    height: 100vh;
+    background: linear-gradient(174.44deg, rgba(11, 11, 11, 0.95) -0.36%, rgba(13, 13, 13, 0.855) 104.09%);
+    background-blend-mode: darken;
+}
+.lista1 {
+    font-family: 'Inter';
+    justify-content: space-between;
+    font-size: 2.5vh;
+    margin-left: 10vh;
+    font-weight: 500;
+    display: flex;  
+    color: black;
+    max-width: 70vh;
+    list-style: none;   
+}
+.listImg {
+    display: flex;
+    font-size: 1rem;
+    margin-top: -5vh;
+}
+.men {
+    margin-left: 16vh;
+    color: black;
+}
+.women {
+    margin-left: 20vh;
+    color: black;
+}
+.kid {
+    margin-left: 14vh;
+    color: black
+}
+.circuloUser {
+    width: 6.5vh;
+    height: 6.5vh;
+    background: #222222;
+    border-radius: 50%;
+    margin-top: -6vh;
+    margin-left: 125vh;
+}
+.user {
+    font-size: 2.50rem;
+    color: #FFFFFF;
+    margin-left: 1.5vh;
+    margin-top: 5vh;
+}
+.red_circle {
+    width: 60vh;
+    height: 60vh;
+    margin-left: 40vh;
+    margin-top: -5vh;
+    background: linear-gradient(179.96deg, #9C0610 0.04%, #CF5C55 99.96%);
+    box-shadow: 73px 8px 38px -10px rgba(189, 63, 61, 0.42);
+    border-radius: 50%;
+}
+.black_circle {
+    display: flex;
+    width: 31vh;
+    height: 9vh;
+    margin-left: 43vh;
+    margin-top: -13.5vh;
+    background: rgba(11, 11, 11, 0.55);
+    box-shadow: 10px -49px 48px 79px rgba(0, 0, 0, 0.49);
+    transform: rotate(27.74deg);
+    border-radius: 50%;
+}
+.airmax {
+    display: flex;
+    width: 69vh;
+    height: 67vh;
+    margin-top: -63vh;
+    margin-left: 34vh;
+    transform: rotate(-1deg);
+}
+main {
+    font-family: 'Inter';
+}
+.Jordan {
+    margin-left: 40vh;
+    font-size: 3vh;
+    letter-spacing: 0.24em;
+    margin-top: 13vh;
+    font-weight: 400;
+}
+.Air {
+    margin-left: 40vh;
+    font-size: 13vh;
+    letter-spacing: 0.30em;
+    margin-top: 8vh;
+    font-weight: 700;
+}
+.description {
+    margin-left: 40vh;
+    font-size: 2.5vh;
+    width: 70vh;
+    color: #585858;
+    margin-top: -15vh;
+    font-weight: 400;
+    letter-spacing: 0.05em;
+}
+.shop {
+    margin-left: 40vh;
+    width: 28vh;
+    height: 8vh;
+    background: #0B0B0B;
+    border-radius: 7vh;
+    margin-top: 3vh;
+}
+.shopnow {
+    margin-left: 46.5vh;
+    font-size: 2vh;
+    margin-top: -5.5vh;
+    color: #FFFFFF;
+    letter-spacing: 0.30em;
+    font-weight: 400;
+}
+.list2 {
+    font-family: 'Gilda Display';
+    display: flex;
+    color: #FFFFFF;
+    margin-top: 25vh;
+    margin-left: -10px;
+    max-width: 18vh;
+    justify-content: space-between;
+    list-style: none;
+}
+.nikera {
+    justify-content: flex-end;   
+    margin-top: 85.5vh;
+    margin-left: -120vh;
+}
+.bars {
+    color: black;
+    font-size: 2.5rem;
+    margin-left: 128vh;
+    margin-top: 25vh;
+    display: flex;
+}

@@ -2,7 +2,7 @@
 
 ![](./img/screenshot.png)
 
-[Clique Aqui](https://matheusalves099.github.io/projeto-nike/) para acessar o site.
+[Clique Aqui]() para acessar o site.
 
 ---
 ## Sobre
@@ -18,6 +18,6 @@ O objetivo deste projeto é colocar em prática os conhecimentos, sobre desenvol
 
 ---
 ## Autor
-- [Matheus Alves](https://www.linkedin.com/in/matheusalvesreisdasilva/)
+- [Artur Alves](https://github.com/ArturAlvess)
 # projeto-jordan
-# projeto-jordan
+
